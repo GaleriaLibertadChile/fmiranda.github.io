@@ -4,17 +4,17 @@ permalink: posts/:title
 baseurl:
 
 # feed.atom configuration
-name: Constituyente Chile
-url: http://constituyentechile.cl
-description: "Somos chilenas y chilenos decididos a ejercer efectivamente el derecho a determinar nuestro propio destino como pueblo y como nación."
+name: Fundacion Francisco de Miranda
+url: http://fundacionfranciscodemiranda.cl
+description: "Somos una organización sin fines de lucro que busca rescatar el patrimonio histórico y cultural de Chile y América Latina."
 author: Constituyente Chile
-keywords: "asamblea, asamblea constituyente, constituyente chile, asamblea constiturente chile"
+keywords: "francisco de miranda, sudamerica, monumento, biblioteca, miguel castillo didier, america, america latina, latinoamerica, independencia, cultura, historia, bernaro ohiggins"
 
 disqus:
-  shortname: asambleaconstituyente
+  shortname: fundacionfranciscodemiranda
 
 twitter:
-  username: '@AConstituyenteC'
+  username: '@FundacionMiranda'
 
 google:
   analytics: 'UA-53620410-1'
