@@ -7,7 +7,7 @@ categories:
   - portada
   - carrusel
 published: true
-image: http://cdn.elciudadano.cl/wp-content/uploads/2015/04/Luksic-Codelco.jpg
+image: 
 youtube: 
 ---
 
