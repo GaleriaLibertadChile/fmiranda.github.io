@@ -5,7 +5,7 @@ title:  EL PACTO SECRETO ENTRE LA CONCERTACIÓN Y PINOCHET... o la reforma que i
 author: AC Chile
 date: 16-06-2014
 categories: [noticias, portada, articulos]
-published: true
+published: false
 image: http://www.asambleaconstituyentechile.cl/wp-content/uploads/2014/06/20070911001638-pinochet-20y-20aylwin-300x240.jpg
 ---
 
