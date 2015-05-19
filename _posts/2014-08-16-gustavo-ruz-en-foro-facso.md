@@ -5,7 +5,7 @@ title: Gustavo Ruz en Foro de FACSO
 categories: 
   - noticias
   - portada
-published: true
+published: false
 image: "https://farm4.staticflickr.com/3923/14665820529_6d9fdb044b_o.png"
 ---
 
