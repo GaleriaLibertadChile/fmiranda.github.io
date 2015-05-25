@@ -8,6 +8,7 @@ categories:
   - eventos
   - monumento
   - academico
+  - carrusel
 published: true
 image: http://www.red-redial.net/img/images/estatua_miranda_patras.jpg
 ---
