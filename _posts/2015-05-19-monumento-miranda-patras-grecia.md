@@ -5,7 +5,9 @@ title: MONUMENTO A MIRANDA EN PATRAS, GRECIA.
 categories: 
   - noticias
   - portada
-  - carrusel
+  - eventos
+  - monumento
+  - academico
 published: true
 image: http://www.red-redial.net/img/images/estatua_miranda_patras.jpg
 ---
