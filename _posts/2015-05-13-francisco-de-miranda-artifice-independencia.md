@@ -5,7 +5,6 @@ title: FRANCISCO DE MIRANDA, ARTÍFICE DE LA INDEPENDENCIA HISPANOAMERICANA.
 categories: 
   - noticias
   - portada
-  - carrusel
 published: true
 image: http://encontrarte.aporrea.org/imagenes/Efemerides/francisco-de-miranda-general.jpg
 ---
