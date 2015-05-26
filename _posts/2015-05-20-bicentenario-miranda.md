@@ -5,6 +5,7 @@ title: BICENTENARIO DE LA HEROICA MUERTE DE FRANCISCO DE MIRANDA.
 categories: 
   - noticias
   - portada
+  - eventos
 published: true
 image: http://www.lostiempos.com/oh/actualidad/actualidad/20100214/media_recortes/2010/02/12/103374_gd.jpg
 ---
