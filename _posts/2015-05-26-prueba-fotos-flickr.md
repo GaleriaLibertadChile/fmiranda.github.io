@@ -6,5 +6,5 @@ categories:
   - noticias
   - portada
 published: true
-image: https://farm9.staticflickr.com/8826/17507390944_1885d1af6f_s.jpg
+image: https://farm9.staticflickr.com/8826/17507390944_49a278b0d5_o.jpg
 ---
