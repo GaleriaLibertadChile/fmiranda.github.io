@@ -5,6 +5,7 @@ title: FRANCISCO DE MIRANDA EN GRECIA.
 categories: 
   - noticias
   - portada
+  - monumento
   - carrusel
 published: true
 image: http://1.bp.blogspot.com/-UgwR5iiyTnI/VRcqqZZmfuI/AAAAAAAABLE/cme0rHpfsHM/s1600/Miranda.png
