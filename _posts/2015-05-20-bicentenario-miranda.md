@@ -6,6 +6,7 @@ categories:
   - noticias
   - portada
   - eventos
+  - academico
 published: true
 image: http://www.lostiempos.com/oh/actualidad/actualidad/20100214/media_recortes/2010/02/12/103374_gd.jpg
 ---
