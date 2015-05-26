@@ -6,5 +6,5 @@ categories:
   - noticias
   - portada
 published: true
-image: https://flic.kr/p/sF4Xo1
+image: https://www.flickr.com/photos/132806029@N04/17507390944/in/album-72157651165479894/lightbox/player/
 ---
